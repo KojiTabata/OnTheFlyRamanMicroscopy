@@ -1,4 +1,4 @@
-# on-the-fly-Raman
+# Dataset and Code for 'On-the-Fly Raman Microscopy Guaranteeing the Accuracy of Discrimination'
 
 This repository contains python code for validating algorithms to accelerate diagnosis by Raman measurements. 
 
